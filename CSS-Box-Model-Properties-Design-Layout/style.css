@@ -1,0 +1,43 @@
+#img1 {
+    border: 9px solid #1115e6;
+    /* border: 7px solid rgb(30, 30, 218); */
+    margin: 10px;
+    padding: 10px;
+    background-color: lightblue;
+
+}
+
+#img2 {
+    border: 9px solid #1115e6;
+    margin: 10px;
+    padding: 10px;
+    background-color: lightblue;
+    /* border: 7px solid rgb(30, 30, 218); */
+
+}
+
+#img3 {
+    border: 9px solid #1115e6;
+    margin: 10px;
+    padding: 10px;
+    background-color: lightblue;
+    /* border: 7px solid rgb(30, 30, 218); */
+
+}
+
+#img4 {
+    border: 9px solid #1115e6;
+    margin: 10px;
+    padding: 10px;
+    background-color: lightblue;
+    /* border: 7px solid rgb(30, 30, 218); */
+
+}
+
+section {
+    width: 600px;
+    height: 600px;
+    text-align: center;
+    border: 15px solid black;
+}
+}
